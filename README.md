@@ -1,21 +1,39 @@
-# Hi there! 👋 I'm @RaeOfChey
+# Hello, 👋 I'm Cheyenna,
+## UI Designer, Front End Developer, and Web Designer.
+### Driving User Engagement and Conversion through Intuitive, Data-Informed Design and Code.
 
-👀 **I'm interested in**: Exploring the intersection between design and software development. I’ve spent the last 5 years building brands through graphic design, and now I’m expanding my expertise into coding and web development.
+I’ve nearly completed an intensive Full Stack Development bootcamp and received my coding certificate from the University of Minnesota. I am now fully equipped with the full stack development skills needed to build responsive, user-focused digital experiences.
 
-🌱 **I’m currently learning**: Full-stack web development through the University of Minnesota’s Coding Bootcamp. I’m diving deep into JavaScript, HTML, CSS, React, Node.js, and more, while honing my problem-solving and coding skills.
+With 5 years of graphic design experience, I bring a unique blend of creative problem-solving and technical expertise to every project.
 
-💞️ **I’m looking to collaborate on**: Projects that merge creative design with functional, user-friendly software. I love contributing to initiatives where I can apply both my design background and my newly acquired development skills.
+💎 Here’s how I can help your team:
+- Drive user engagement and conversion through intuitive, data-informed design and development, ensuring every project meets both business objectives and user needs.
+- Optimize performance and user experience by improving website speed, accessibility, and mobile responsiveness, creating seamless interactions that keep users engaged.
+- Collaborate across teams to build solutions that balance user experience with business goals, combining my technical expertise and design background to craft efficient and visually appealing interfaces.
 
-📫 **How to reach me**:  
-- Email: cheyennaraelynn@gmail.com  
+➡️ I’m now seeking opportunities to leverage my background in design and development as:
+- UI/UX Designer
+- Front-End Developer
+- Web Designer
+
+📍 I’m particularly interested in roles located in:
+- Minneapolis, MN
+- Chicago, IL
+- Denver, CO
+- Boston, MA
+I’m open to full-time or contract positions, in-person, hybrid, or remote.
+
+✅ What I will bring to your team:
+- A holistic approach to design and development, ensuring both the look and functionality of applications align with user needs and company goals.
+- A focus on user-centered design principles to build and optimize interfaces that enhance satisfaction and drive conversions.
+- An ability to leverage my technical skills and design experience to create digital products that make a measurable business impact.
+
+💬 Let’s connect! Feel free to reach out if you know of any opportunities or if you'd like to chat more about how I can help your team thrive.
+- Portfolio: https://cheyennaraelynnportfolio.netlify.app/
+- GitHub: https://github.com/RaeOfChey  
 - LinkedIn: https://www.linkedin.com/in/cheyenna-raelynn/
-- Design & Photography Portfolio: https://cheyennaraelynn.myportfolio.com/
-- GitHub: https://github.com/RaeOfChey
 - Instagram: https://www.instagram.com/raeofchey/
-
-😄 **Pronouns**: She/Her
-
-⚡ **Fun fact**: I’m a dedicated foodie who loves experimenting with new recipes and exploring diverse cuisines. Shrimp scampi is my signature dish!
+- Email: cheyennaraelynn@gmail.com
 
 <!---
 RaeOfChey/RaeOfChey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
