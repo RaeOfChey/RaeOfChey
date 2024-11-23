@@ -21,6 +21,7 @@ With 5 years of graphic design experience, I bring a unique blend of creative pr
 - Chicago, IL
 - Denver, CO
 - Boston, MA
+
 I’m open to full-time or contract positions, in-person, hybrid, or remote.
 
 ✅ What I will bring to your team:
