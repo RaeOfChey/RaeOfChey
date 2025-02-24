@@ -7,28 +7,28 @@ With a BFA in Graphic Design and 5 years of professional design experience, I br
 In my work, I bridge the gap between design and development to deliver visually appealing and functional interfaces that solve real problems and drive measurable results.
 
 ## 💎 Here’s how I can help your team
-🔹 Drive user engagement and conversion through intuitive, data-informed design and development, ensuring every project meets both business objectives and user needs.
-🔹 Optimize performance and user experience by improving website speed, accessibility, and mobile responsiveness, creating seamless interactions that keep users engaged.
-🔹Collaborate across teams to build solutions that balance user experience with business goals, combining my technical expertise and design background to craft efficient and visually appealing interfaces.
+- Drive user engagement and conversion through intuitive, data-informed design and development, ensuring every project meets both business objectives and user needs.
+- Optimize performance and user experience by improving website speed, accessibility, and mobile responsiveness, creating seamless interactions that keep users engaged.
+- Collaborate across teams to build solutions that balance user experience with business goals, combining my technical expertise and design background to craft efficient and visually appealing interfaces.
 
 ## 💼 Highlighted Accomplishments:
-🔹Collaborated with developers and internal teams to launch a redesigned e-commerce website using WordPress and Shopify, enhancing usability, accessibility, and branding while streamlining the customer experience for product purchases and service inquiries.
-🔹 Implemented a customer portal within the WordPress and Shopify-integrated website, allowing users to access order details, shipping status, and documentation, addressing customer frustrations and improving user satisfaction.
-🔹Spearheaded the launch of a first ever e-commerce platform, collaborating with developers and internal teams to optimize design, SEO, and accessibility, resulting in a 25% increase in software sales.
+- Collaborated with developers and internal teams to launch a redesigned e-commerce website using WordPress and Shopify, enhancing usability, accessibility, and branding while streamlining the customer experience for product purchases and service inquiries.
+- Implemented a customer portal within the WordPress and Shopify-integrated website, allowing users to access order details, shipping status, and documentation, addressing customer frustrations and improving user satisfaction.
+- Spearheaded the launch of a first ever e-commerce platform, collaborating with developers and internal teams to optimize design, SEO, and accessibility, resulting in a 25% increase in software sales.
 
 ## ➡️ Roles I'm seeking
 I’m looking to join a team where I can combine my design and development skills to craft impactful digital experiences. I’m actively exploring opportunities in:
-🔹 UX/UI Designer
-🔹Web Designer
-🔹Front-End Developer
+- UX/UI Designer
+- Web Designer
+- Front-End Developer
 
 ## 📍Locations of Interest
 I’m particularly interested in roles located in
-🔹Minneapolis, MN
-🔹Chicago, IL
-🔹Denver, CO
-🔹Boston, MA
-🔹Fully Remote
+- Minneapolis, MN
+- Chicago, IL
+- Denver, CO
+- Boston, MA
+- Fully Remote
 
 I’m open to full-time or contract positions, in-person, hybrid, or remote.
 
@@ -39,11 +39,11 @@ I’m open to full-time or contract positions, in-person, hybrid, or remote.
 
 ## 💬 Let’s connect!
 I’d love to explore how I can help your team thrive.
-🔹Portfolio: https://cheyennaraelynnportfolio.netlify.app/
-🔹GitHub: https://github.com/RaeOfChey 
-🔹Instagram: https://www.instagram.com/raeofchey/
-🔹Email: cheyennaraelynn@gmail.com
-🔹Project Contact Form: https://forms.gle/1QjHYLoEgbsCsSjK7
+- Portfolio: https://cheyennaraelynnportfolio.netlify.app/
+- GitHub: https://github.com/RaeOfChey 
+- Instagram: https://www.instagram.com/raeofchey/
+- Email: cheyennaraelynn@gmail.com
+- Project Contact Form: https://forms.gle/1QjHYLoEgbsCsSjK7
 
 <!---
 RaeOfChey/RaeOfChey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
